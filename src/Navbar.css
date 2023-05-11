@@ -1,0 +1,18 @@
+.navdiv {
+    display: flex;
+    /* align-items: center; */
+    justify-content: space-between;
+    /* width: max-content; */
+    /* border: 1px solid black; */
+    color: white;
+    height: 50px;
+    padding: 20px;
+    margin: 15px;
+}
+.min {
+    padding: 10px;
+    background-color: midnightblue;
+   
+    padding-top: 14px;
+    border-radius: 25px;
+}
